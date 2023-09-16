@@ -57,7 +57,7 @@ Let me introduce several books that I've read. They are commonly used as textboo
   * The Design of the UNIX Operating System
   * Operating Systems: Internals and Design Principles by William Stallings
 ## Bookmark - Sept 15, 2023
-## Currently Taking the Operating Systems Course
+### Currently Taking the Operating Systems Course
 * Recommended Courses
    * [CS401: Operating Systems from saylor.org](https://learn.saylor.org/course/view.php?id=94)
 ## _____________________________________________
