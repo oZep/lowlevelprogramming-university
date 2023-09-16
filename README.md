@@ -1,10 +1,3 @@
-NOTICE1: Please do not copy the contents of this page to your blog. You can share this page but please share with the original link. That is how we compliment the authors of good documents and open source projects.
-
-NOTICE2: Please notice that low-level programming is out of trend and currently there are not many companies hiring low-level developer. It is getting harder for me to find a job.
-If you haven't started a professional career yet, I would like to recommend you consider other fields either carefully.
-
-NOTICE3: If you want a quick start, go to "How to start?".
-
 * [Low-Level Programming University](#Low-Level-Programming-University)
   * [What is it?](#What-is-it)
   * [What Is the Low Level](#What-Is-the-Low-Level)
@@ -20,8 +13,6 @@ NOTICE3: If you want a quick start, go to "How to start?".
     * [Other applications](#Other-applications)
   * [Future of low-level programming](#Future-of-low-level-programming)
   * [How to start?](#How-to-start)
-* [Translation](#Translation)
-* [Who am I?](#who-am-i)
 
 # Low-Level Programming University
 
@@ -345,28 +336,3 @@ I received an email asking how to start. There are many information about books,
   * Or find other topics
     * There are many fields where the low-level engineer can work: security, Compiler, Firmware, robot/car and so on
 
-# <a name="Translation"></a>Translation
-
-Please send me the pull request if you'd like to translate this page. I'll list it here.
-
-* [Chinese(Traditional)](https://github.com/gurugio/lowlevelprogramming-university/blob/master/README_tw.md)
-* [Chinese(Simplified)](https://github.com/gurugio/lowlevelprogramming-university/blob/master/README_cn.md)
-* [Portuguese (Brazilian)](https://github.com/gurugio/lowlevelprogramming-university/blob/master/README_pt.md)
-* [Italian](https://github.com/gurugio/lowlevelprogramming-university/blob/master/README_it.md)
-* [Czech](https://github.com/gurugio/lowlevelprogramming-university/blob/master/README_cz.md)
-* [Russian](https://github.com/gurugio/lowlevelprogramming-university/blob/master/README_ru.md)
-* [Turkish](https://github.com/gurugio/lowlevelprogramming-university/blob/master/README_tr.md)
-* [Persian](https://github.com/gurugio/lowlevelprogramming-university/blob/master/README_fa.md)
-* [Spanish](https://github.com/gurugio/lowlevelprogramming-university/blob/master/README_es.md)
-
-# <a name="who-am-i"></a>Who am I?
-
-I'm inspired by [google-interview-university](https://github.com/jwasham/google-interview-university). I'd like to share my experience and show a roadmap to becoming a low-level programmer because I have found that these skills are not as common as they once were. In addition, many students and beginners ask me how they could become low-level programmers and Linux kernel engineers.
-
-FYI, I have over 10 years of experience as a low-level programmer:
-* 80x86 Assembly programming
-* Hardware device with Atmel chip and firmware
-* C language system programming for Unix
-* Device driver in Linux
-* Linux kernel: page allocation
-* Linux kernel: block device driver and md module
