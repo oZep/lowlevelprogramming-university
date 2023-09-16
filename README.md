@@ -56,6 +56,7 @@ Let me introduce several books that I've read. They are commonly used as textboo
   * The Magic Garden Explained: The Internals of UNIX System V Release 4 an Open Systems Design
   * The Design of the UNIX Operating System
   * Operating Systems: Internals and Design Principles by William Stallings
+## _____________________________________________
 #### Bookmark - Sept 15, 2023
 ##### Currently Taking the Operating Systems Course
 * Recommended Courses
