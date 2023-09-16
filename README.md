@@ -56,11 +56,11 @@ Let me introduce several books that I've read. They are commonly used as textboo
   * The Magic Garden Explained: The Internals of UNIX System V Release 4 an Open Systems Design
   * The Design of the UNIX Operating System
   * Operating Systems: Internals and Design Principles by William Stallings
-#### Bookmark - Sept 15, 2023
-#### Currently Taking the Operating Systems Course
+## Bookmark - Sept 15, 2023
+## Currently Taking the Operating Systems Course
 * Recommended Courses
    * [CS401: Operating Systems from saylor.org](https://learn.saylor.org/course/view.php?id=94)
-#### _____________________________________________
+## _____________________________________________
 * General Programming Skill
    * [Structure and Interpretation of Computer Programs](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs)
       * It's about how to be a good Software programmer. You need not only theory but only technique because programming is a kind of craftwork.
